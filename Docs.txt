@@ -1,0 +1,5 @@
+Case Study Name : Online Shopping Cart System 
+
+Github link for HLD and LLD - https://github.com/tejasmatkar257/ShoppingCartCaseStudy
+Github link for Angular UI - https://github.com/tejasmatkar257/ShoppingCart_Frontend
+Github link for WebAPI -  https://github.com/tejasmatkar257/ShoppingCartBackend
